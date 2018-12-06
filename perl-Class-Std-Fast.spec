@@ -4,7 +4,7 @@
 #
 Name     : perl-Class-Std-Fast
 Version  : 0.0.8
-Release  : 7
+Release  : 8
 URL      : https://cpan.metacpan.org/authors/id/A/AC/ACID/Class-Std-Fast-v0.0.8.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/A/AC/ACID/Class-Std-Fast-v0.0.8.tar.gz
 Source1  : http://http.debian.net/debian/pool/main/libc/libclass-std-fast-perl/libclass-std-fast-perl_0.0.8-2.debian.tar.xz
